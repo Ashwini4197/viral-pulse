@@ -1,4 +1,14 @@
 # 🔥 Viral Pulse — Social Media Sentiment & Trend Intelligence Dashboard
+## Dashboard Screenshots
+
+![Sentiment Overview](docs/dashboard1.png)
+
+
+![Trending Topics](docs/dashboard2.png)
+
+
+![Entity Intelligence](docs/dashboard3.png)
+
 
 > **End-to-end NLP analytics pipeline** that tracks Reddit posts, extracts sentiment, detects emerging trends, stores insights in PostgreSQL, and visualizes everything in a live Power BI dashboard.
 
